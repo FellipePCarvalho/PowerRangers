@@ -1,0 +1,33 @@
+A COR QUE EU TO USANDO DAS FONTES VERMELHAS
+F9160D
+
+FONTE POWER
+https://fontmeme.com/fontes/fonte-power-rangers/
+
+FAZER OS DESENHOS DOS LINKS NO ILLUSTRATOR, FAZER UMA 
+COISA MAIS ORIGINAL COM O MESMO PADRÃO DE COR, ESTILO E 
+TAMANHO. SE TIVER ALGUMA ESPECIE DE BOTÃO FAZER LÁ TBM
+
+TITULO
+SUB TITULO
+IMAGEM OCUPANDO TODA A TELA
+4 IMAGENS COM LINKS PRAS PARTES DO SITE
+HOME
+    imagem
+    texto sobre
+QUEM SOMOS
+    missão  
+    valores
+    nossa história
+NOSSA EQUIPE
+    foto integrantes da equipe \
+    nome                        > alinhados   == procurar as fotos das personagens
+    cargos                     /
+NOSSOS PRODUTOS
+    nome do produto em cima
+    foto do produto
+ENTRE OS DOIS == TEXTO "CADASTRE NO NOSSO SITE ..." 
+FORMULÁRIO
+   formulário com o máximo de informações
+   utilizar os types de confirmação como, email, number...
+    
